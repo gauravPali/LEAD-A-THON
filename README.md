@@ -1,7 +1,12 @@
-// Run npm install
-// To run app - npm run dev
-// Go to http://localhost:8080/
-// Endpoints
-   GET - /
-   GET - /CODE
-// To kill port - npm run kill   
+**How to run app**
+```
+npm install // install the dependencies
+npm run dev // run application
+npm run kill  // kill port
+Go to http://localhost:8080/
+```
+**Endpoints**
+```
+GET - /
+GET - /CODE
+```  
